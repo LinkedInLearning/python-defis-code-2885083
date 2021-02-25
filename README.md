@@ -1,21 +1,30 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Python : Défis de code
+
+Ce dépôt concerne la formation LinkedIn Learning `Python : Défis de code`. Le cours complet est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+Développeur python, quelque soit votre niveau, vous trouverez dans ces défis de quoi vous entrainer aux entretiens techniques ou simplement de quoi mettre à l'épreuve vos compétences. 
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+Ce cours propose une douzaine de défis qui abordent des bonnes pratiques, des astuces de programmation, des challenges algorithmiques ou l'utilisation de certains modules python. 
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+Dans l'univers des Monty Python, vous consoliderez votre maîtrise du langage et stimulerez vos neurones pour réussir vos tests d'embauche ou reprendre vos projets avec des approches nouvelles et créatives.
+
+## Installation
+Pour utiliser les fichiers d'exercice, il vous suffit de cloner le dépôt.
+
+## Option 1 - Google Colab
+Le notebook _notebook.ipynb peut être importé dans  [google colab](https://colab.research.google.com).
+
+Chaque défi donne lieu à une rubrique dans ce notebook avec une section *Défi* et une section *Solution*. 
+
+Certains défis ont aussi un section *Préambule* à exécuter pour définir des prérequis d'exécution.
+
+## Option 2 - En local
+
+La plupart des défis peuvent aussi être travaillés dans votre IDE python favori. 
+
+Chaque défi possède deux fichiers commençant. Par exemple pour le défi 3 du chapitre 2, le code de démarrage du défi est dans 02_03_defi.py et la solution dans 02_03_solution.py.
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
