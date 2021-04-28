@@ -1,8 +1,8 @@
-# Python : Défis de code
+# Défis code : Python
 
 Ce dépôt concerne la formation LinkedIn Learning `Python : Défis de code`. Le cours complet est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Défis de code : Python][lil-thumbnail-url] 
+![Défis code : Python][lil-thumbnail-url] 
 
 Développeur python, quelque soit votre niveau, vous trouverez dans ces défis de quoi vous entrainer aux entretiens techniques ou simplement de quoi mettre à l'épreuve vos compétences. 
 
