@@ -1,6 +1,6 @@
 # Défis code : Python
 
-Ce dépôt concerne la formation LinkedIn Learning `Python : Défis de code`. Le cours complet est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dépôt concerne la formation LinkedIn Learning `Défis code : Python`. Le cours complet est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Défis code : Python][lil-thumbnail-url] 
 
