@@ -28,6 +28,6 @@ Chaque défi possède deux fichiers commençant. Par exemple pour le défi 3 du 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
+[lil-course-url]: https://www.linkedin.com/learning/python-defis-code
 [lil-thumbnail-url]: https://www.linkedin.com/learning/python-defis-code
 
