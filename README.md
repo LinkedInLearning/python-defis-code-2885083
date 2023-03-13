@@ -2,6 +2,7 @@
 
 Ce dépôt concerne la formation LinkedIn Learning `Défis code : Python`. Le cours complet est disponible sur [LinkedIn Learning][lil-course-url].
 
+![COURSENAME][lil-thumbnail-url] 
 
 Développeur python, quelque soit votre niveau, vous trouverez dans ces défis de quoi vous entrainer aux entretiens techniques ou simplement de quoi mettre à l'épreuve vos compétences. 
 
@@ -29,5 +30,5 @@ Chaque défi possède deux fichiers commençant. Par exemple pour le défi 3 du 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/python-defis-code
-[lil-thumbnail-url]: https://www.linkedin.com/learning/python-defis-code
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQEfIJdszCRU5g/learning-public-crop_675_1200/0/1669729146579?e=2147483647&v=beta&t=BAKhzRMnjt8uLwfqX480ZHYmhmA4x8E7RegmUJV9jw8
 
